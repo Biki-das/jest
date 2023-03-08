@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Getting Started
+title: Getting Starteddwqd
 ---
 
 Install Jest using your favorite package manager:
